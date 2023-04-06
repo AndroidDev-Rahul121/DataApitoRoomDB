@@ -39,7 +39,7 @@ holder.itemView.setOnClickListener {
 //
 //    val secondFragment = SecondFragment()
 //    secondFragment.arguments = bundle
-//
+// ghhghgjhgjgh
 //    Log.d("tag","$bundle")
 }
 
